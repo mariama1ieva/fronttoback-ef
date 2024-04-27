@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|c:\\users\\asus\\onedrive\\desktop\\fronttoback\\fronttoback\\fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|solutionrelative:fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|c:\\users\\asus\\onedrive\\desktop\\fronttoback\\fronttoback\\fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|solutionrelative:fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|c:\\users\\asus\\onedrive\\desktop\\fronttoback\\fronttoback\\fronttoback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|solutionrelative:fronttoback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|c:\\users\\asus\\onedrive\\desktop\\fronttoback\\fronttoback\\fronttoback\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A94F2606-6C76-47E1-A4AA-D463E2A6A6D7}|fronttoback\\fronttoback.csproj|solutionrelative:fronttoback\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "fronttoback\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "fronttoback\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:50:16.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Program.cs",
+              "RelativeDocumentMoniker": "fronttoback\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Program.cs",
+              "RelativeToolTip": "fronttoback\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:51:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "fronttoback\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\appsettings.Development.json",
+              "RelativeToolTip": "fronttoback\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T19:35:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "fronttoback\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\fronttoback\\fronttoback\\fronttoback\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "fronttoback\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:33:00.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
